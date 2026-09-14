@@ -1,0 +1,35 @@
+ggH124                     /GluGluHtoZZto4L_M-124_TuneCP5_13p6TeV_powheg-jhugen-pythia8/Run3Summer23BPixNanoAODv12-130X_mcRun3_2023_realistic_postBPix_v6-v2/NANOAODSIM
+ggH124p5                   /GluGluHtoZZto4L_M-124p5_TuneCP5_13p6TeV_powheg-jhugen-pythia8/Run3Summer23BPixNanoAODv12-130X_mcRun3_2023_realistic_postBPix_v6-v2/NANOAODSIM
+ggH125                     /GluGluHtoZZto4L_M-125_TuneCP5_13p6TeV_powheg-jhugen-pythia8/Run3Summer23BPixNanoAODv12-130X_mcRun3_2023_realistic_postBPix_v6-v2/NANOAODSIM
+ggH125p5                   /GluGluHtoZZto4L_M-125p5_TuneCP5_13p6TeV_powheg-jhugen-pythia8/Run3Summer23BPixNanoAODv12-130X_mcRun3_2023_realistic_postBPix_v6-v2/NANOAODSIM
+ggH126                     /GluGluHtoZZto4L_M-126_TuneCP5_13p6TeV_powheg-jhugen-pythia8/Run3Summer23BPixNanoAODv12-130X_mcRun3_2023_realistic_postBPix_v6-v2/NANOAODSIM
+
+VBFH124                    /VBFHto2Zto4L_M-124_TuneCP5_13p6TeV_powheg-jhugen-pythia8/Run3Summer23BPixNanoAODv12-130X_mcRun3_2023_realistic_postBPix_v6-v3/NANOAODSIM
+VBFH124p5                  /VBFHto2Zto4L_M-124p5_TuneCP5_13p6TeV_powheg-jhugen-pythia8/Run3Summer23BPixNanoAODv12-130X_mcRun3_2023_realistic_postBPix_v6-v2/NANOAODSIM
+VBFH125                    /VBFHto2Zto4L_M-125_TuneCP5_13p6TeV_powheg-jhugen-pythia8/Run3Summer23BPixNanoAODv12-130X_mcRun3_2023_realistic_postBPix_v6-v2/NANOAODSIM
+VBFH125p5                  /VBFHto2Zto4L_M-125p5_TuneCP5_13p6TeV_powheg-jhugen-pythia8/Run3Summer23BPixNanoAODv12-130X_mcRun3_2023_realistic_postBPix_v6-v2/NANOAODSIM
+VBFH126                    /VBFHto2Zto4L_M-126_TuneCP5_13p6TeV_powheg-jhugen-pythia8/Run3Summer23BPixNanoAODv12-130X_mcRun3_2023_realistic_postBPix_v6-v2/NANOAODSIM
+
+WplusH124                  /WplusH_Hto2Zto4L_M-124_TuneCP5_13p6TeV_powheg2-minlo-HWJ-JHUGenV752-pythia8/Run3Summer23BPixNanoAODv12-130X_mcRun3_2023_realistic_postBPix_v6-v2/NANOAODSIM
+WplusH124p5                /WplusH_Hto2Zto4L_M-124p5_TuneCP5_13p6TeV_powheg2-minlo-HWJ-JHUGenV752-pythia8/Run3Summer23BPixNanoAODv12-130X_mcRun3_2023_realistic_postBPix_v6-v2/NANOAODSIM
+WplusH125                  /WplusH_Hto2Zto4L_M-125_TuneCP5_13p6TeV_powheg2-minlo-HWJ-JHUGenV752-pythia8/Run3Summer23BPixNanoAODv12-130X_mcRun3_2023_realistic_postBPix_v6-v2/NANOAODSIM
+WplusH125p5                /WplusH_Hto2Zto4L_M-125p5_TuneCP5_13p6TeV_powheg2-minlo-HWJ-JHUGenV752-pythia8/Run3Summer23BPixNanoAODv12-130X_mcRun3_2023_realistic_postBPix_v6-v2/NANOAODSIM
+WplusH126                  /WplusH_Hto2Zto4L_M-126_TuneCP5_13p6TeV_powheg2-minlo-HWJ-JHUGenV752-pythia8/Run3Summer23BPixNanoAODv12-130X_mcRun3_2023_realistic_postBPix_v6-v2/NANOAODSIM
+
+WminusH124                 /WminusH_Hto2Zto4L_M-124_TuneCP5_13p6TeV_powheg2-minlo-HWJ-JHUGenV752-pythia8/Run3Summer23BPixNanoAODv12-130X_mcRun3_2023_realistic_postBPix_v6-v2/NANOAODSIM
+WminusH124p5               /WminusH_Hto2Zto4L_M-124p5_TuneCP5_13p6TeV_powheg2-minlo-HWJ-JHUGenV752-pythia8/Run3Summer23BPixNanoAODv12-130X_mcRun3_2023_realistic_postBPix_v6-v2/NANOAODSIM
+WminusH125                 /WminusH_Hto2Zto4L_M-125_TuneCP5_13p6TeV_powheg2-minlo-HWJ-JHUGenV752-pythia8/Run3Summer23BPixNanoAODv12-130X_mcRun3_2023_realistic_postBPix_v6-v2/NANOAODSIM
+WminusH125p5               /WminusH_Hto2Zto4L_M-125p5_TuneCP5_13p6TeV_powheg2-minlo-HWJ-JHUGenV752-pythia8/Run3Summer23BPixNanoAODv12-130X_mcRun3_2023_realistic_postBPix_v6-v2/NANOAODSIM
+WminusH126                 /WminusH_Hto2Zto4L_M-126_TuneCP5_13p6TeV_powheg2-minlo-HWJ-JHUGenV752-pythia8/Run3Summer23BPixNanoAODv12-130X_mcRun3_2023_realistic_postBPix_v6-v2/NANOAODSIM
+
+ZH124                      /ZH_Hto2Z_4LFilter_M-124_TuneCP5_13p6TeV_powheg-jhugen-pythia8/Run3Summer23BPixNanoAODv12-130X_mcRun3_2023_realistic_postBPix_v6-v2/NANOAODSIM
+ZH124p5                    /ZH_Hto2Z_4LFilter_M-124p5_TuneCP5_13p6TeV_powheg-jhugenv752-pythia8/Run3Summer23BPixNanoAODv12-130X_mcRun3_2023_realistic_postBPix_v6-v2/NANOAODSIM
+ZH125                      /ZH_Hto2Z_4LFilter_M-125_TuneCP5_13p6TeV_powheg-jhugen-pythia8/Run3Summer23BPixNanoAODv12-130X_mcRun3_2023_realistic_postBPix_v6-v2/NANOAODSIM
+ZH125p5                    /ZH_Hto2Z_4LFilter_M-125p5_TuneCP5_13p6TeV_powheg-jhugen-pythia8/Run3Summer23BPixNanoAODv12-130X_mcRun3_2023_realistic_postBPix_v6-v2/NANOAODSIM
+ZH126                      /ZH_Hto2Z_4LFilter_M-126_TuneCP5_13p6TeV_powheg-jhugen-pythia8/Run3Summer23BPixNanoAODv12-130X_mcRun3_2023_realistic_postBPix_v6-v2/NANOAODSIM
+
+ttH124                     /TTH_Hto2Z_4LFilter_M-124_TuneCP5_13p6TeV_powheg-jhugenv752-pythia8/Run3Summer23BPixNanoAODv12-130X_mcRun3_2023_realistic_postBPix_v6-v2/NANOAODSIM
+ttH124p5                   /TTH_Hto2Z_4LFilter_M-124p5_TuneCP5_13p6TeV_powheg-jhugenv752-pythia8/Run3Summer23BPixNanoAODv12-130X_mcRun3_2023_realistic_postBPix_v6-v2/NANOAODSIM
+ttH125                     /TTH_Hto2Z_4LFilter_M-125_TuneCP5_13p6TeV_powheg-jhugenv752-pythia8/Run3Summer23BPixNanoAODv12-130X_mcRun3_2023_realistic_postBPix_v6-v2/NANOAODSIM
+ttH125p5                   /TTH_Hto2Z_4LFilter_M-125p5_TuneCP5_13p6TeV_powheg-jhugenv752-pythia8/Run3Summer23BPixNanoAODv12-130X_mcRun3_2023_realistic_postBPix_v6-v2/NANOAODSIM
+ttH126                     /TTH_Hto2Z_4LFilter_M-126_TuneCP5_13p6TeV_powheg-jhugenv752-pythia8/Run3Summer23BPixNanoAODv12-130X_mcRun3_2023_realistic_postBPix_v6-v2/NANOAODSIM
